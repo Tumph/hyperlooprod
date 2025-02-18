@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hyperlooprod/static/css/main.e6c13ad2.css",
+    "main.js": "/hyperlooprod/static/js/main.d73c3080.js",
+    "static/js/453.ddf0531c.chunk.js": "/hyperlooprod/static/js/453.ddf0531c.chunk.js",
+    "index.html": "/hyperlooprod/index.html",
+    "main.e6c13ad2.css.map": "/hyperlooprod/static/css/main.e6c13ad2.css.map",
+    "main.d73c3080.js.map": "/hyperlooprod/static/js/main.d73c3080.js.map",
+    "453.ddf0531c.chunk.js.map": "/hyperlooprod/static/js/453.ddf0531c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d73c3080.js"
+  ]
+}
